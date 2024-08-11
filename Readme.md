@@ -2,7 +2,7 @@
 
 ## Description
 
-This is for my personal use.I normally goto [52 Week high stocks] (https://www.nseindia.com/market-data/52-week-high-equity-market) on NSE Website. Then I manually check if its F&O stocks and if yes then goto tradingview to see its chart.
+This is for my personal use.I normally goto [52 Week high stocks](https://www.nseindia.com/market-data/52-week-high-equity-market) on NSE Website. Then I manually check if its F&O stocks and if yes then goto tradingview to see its chart.
 This Extension automally highlight the F&O stocks on NSE India website and change hyperlink to tradingview and on click it automatticaly open the tradingview chart for that particualr stock.It really saves a lot of time and helps in research process.
 
 
@@ -16,7 +16,7 @@ This Extension automally highlight the F&O stocks on NSE India website and chang
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/tab-reader-extension.git
+   git clone https://github.com/coder-1982/NSE-FO-TradingView-Extension
    cd tab-reader-extension
    ```
    
